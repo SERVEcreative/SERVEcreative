@@ -7,10 +7,8 @@
 
 - 🚀 Founder of **Next Orbit**, a multi-traded company.
 - 🌍 Currently working on **CabsNow**, a cab booking app.
-- 💡 Exploring **AI, Spring Boot Microservices, and Unity Game Development**.
-- 🎮 Creating **an Animal Adventure Game** from scratch in Unity.
+- 💡 Exploring **AI, Spring Boot Microservices.
 - 📚 Learning **System Design and Advanced Backend Development**.
-- 💪 Fitness enthusiast with an Instagram fitness page.
 
   
 
